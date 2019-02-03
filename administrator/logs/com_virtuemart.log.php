@@ -180,3 +180,187 @@
 2019-02-02 02:49:47 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
 2019-02-02 02:50:07 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
 2019-02-02 02:50:34 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-02 03:31:59 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-02 04:07:11 NO LANGUAGE LOADED  COM_VIRTUEMART &lt;pre&gt;#0  vmTrace() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/helpers/vmlanguage.php:271]
+#1  vmLanguage::loadJLang() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/fields/vmloadlang.php:39]
+#2  JFormFieldVmLoadLang-&gt;getInput() called at [/var/www/html/ferado2/ferado/libraries/src/Form/FormField.php:975]
+#3  Joomla\CMS\Form\FormField-&gt;renderField() called at [/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php:47]
+#4  include(/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php) called at [/var/www/html/ferado2/ferado/libraries/src/Layout/FileLayout.php:125]
+#5  Joomla\CMS\Layout\FileLayout-&gt;render() called at [/var/www/html/ferado2/ferado/libraries/src/Layout/LayoutHelper.php:73]
+#6  Joomla\CMS\Layout\LayoutHelper::render() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php:231]
+#7  include(/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php) called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:695]
+#8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:230]
+#9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/view.html.php:46]
+&lt;/pre&gt;
+2019-02-02 04:07:11 NO LANGUAGE LOADED  COM_VIRTUEMART_CONFIG &lt;pre&gt;#0  vmTrace() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/helpers/vmlanguage.php:271]
+#1  vmLanguage::loadJLang() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/fields/vmloadlang.php:39]
+#2  JFormFieldVmLoadLang-&gt;getInput() called at [/var/www/html/ferado2/ferado/libraries/src/Form/FormField.php:975]
+#3  Joomla\CMS\Form\FormField-&gt;renderField() called at [/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php:47]
+#4  include(/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php) called at [/var/www/html/ferado2/ferado/libraries/src/Layout/FileLayout.php:125]
+#5  Joomla\CMS\Layout\FileLayout-&gt;render() called at [/var/www/html/ferado2/ferado/libraries/src/Layout/LayoutHelper.php:73]
+#6  Joomla\CMS\Layout\LayoutHelper::render() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php:231]
+#7  include(/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php) called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:695]
+#8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:230]
+#9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/view.html.php:46]
+&lt;/pre&gt;
+2019-02-02 04:19:08 NO LANGUAGE LOADED  COM_VIRTUEMART &lt;pre&gt;#0  vmTrace() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/helpers/vmlanguage.php:271]
+#1  vmLanguage::loadJLang() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/fields/vmloadlang.php:39]
+#2  JFormFieldVmLoadLang-&gt;getInput() called at [/var/www/html/ferado2/ferado/libraries/src/Form/FormField.php:975]
+#3  Joomla\CMS\Form\FormField-&gt;renderField() called at [/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php:47]
+#4  include(/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php) called at [/var/www/html/ferado2/ferado/libraries/src/Layout/FileLayout.php:125]
+#5  Joomla\CMS\Layout\FileLayout-&gt;render() called at [/var/www/html/ferado2/ferado/libraries/src/Layout/LayoutHelper.php:73]
+#6  Joomla\CMS\Layout\LayoutHelper::render() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php:231]
+#7  include(/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php) called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:695]
+#8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:230]
+#9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/view.html.php:46]
+&lt;/pre&gt;
+2019-02-02 04:19:08 NO LANGUAGE LOADED  COM_VIRTUEMART_CONFIG &lt;pre&gt;#0  vmTrace() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/helpers/vmlanguage.php:271]
+#1  vmLanguage::loadJLang() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/fields/vmloadlang.php:39]
+#2  JFormFieldVmLoadLang-&gt;getInput() called at [/var/www/html/ferado2/ferado/libraries/src/Form/FormField.php:975]
+#3  Joomla\CMS\Form\FormField-&gt;renderField() called at [/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php:47]
+#4  include(/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php) called at [/var/www/html/ferado2/ferado/libraries/src/Layout/FileLayout.php:125]
+#5  Joomla\CMS\Layout\FileLayout-&gt;render() called at [/var/www/html/ferado2/ferado/libraries/src/Layout/LayoutHelper.php:73]
+#6  Joomla\CMS\Layout\LayoutHelper::render() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php:231]
+#7  include(/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php) called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:695]
+#8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:230]
+#9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/view.html.php:46]
+&lt;/pre&gt;
+2019-02-02 04:20:27 NO LANGUAGE LOADED  COM_VIRTUEMART &lt;pre&gt;#0  vmTrace() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/helpers/vmlanguage.php:271]
+#1  vmLanguage::loadJLang() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/fields/vmloadlang.php:39]
+#2  JFormFieldVmLoadLang-&gt;getInput() called at [/var/www/html/ferado2/ferado/libraries/src/Form/FormField.php:975]
+#3  Joomla\CMS\Form\FormField-&gt;renderField() called at [/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php:47]
+#4  include(/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php) called at [/var/www/html/ferado2/ferado/libraries/src/Layout/FileLayout.php:125]
+#5  Joomla\CMS\Layout\FileLayout-&gt;render() called at [/var/www/html/ferado2/ferado/libraries/src/Layout/LayoutHelper.php:73]
+#6  Joomla\CMS\Layout\LayoutHelper::render() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php:231]
+#7  include(/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php) called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:695]
+#8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:230]
+#9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/view.html.php:46]
+&lt;/pre&gt;
+2019-02-02 04:20:27 NO LANGUAGE LOADED  COM_VIRTUEMART_CONFIG &lt;pre&gt;#0  vmTrace() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/helpers/vmlanguage.php:271]
+#1  vmLanguage::loadJLang() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/fields/vmloadlang.php:39]
+#2  JFormFieldVmLoadLang-&gt;getInput() called at [/var/www/html/ferado2/ferado/libraries/src/Form/FormField.php:975]
+#3  Joomla\CMS\Form\FormField-&gt;renderField() called at [/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php:47]
+#4  include(/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php) called at [/var/www/html/ferado2/ferado/libraries/src/Layout/FileLayout.php:125]
+#5  Joomla\CMS\Layout\FileLayout-&gt;render() called at [/var/www/html/ferado2/ferado/libraries/src/Layout/LayoutHelper.php:73]
+#6  Joomla\CMS\Layout\LayoutHelper::render() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php:231]
+#7  include(/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php) called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:695]
+#8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:230]
+#9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/view.html.php:46]
+&lt;/pre&gt;
+2019-02-02 05:48:40 ERROR vmError: Failed to retrieve the Currency Converter XML document.
+2019-02-02 17:23:22 ERROR vmError: Failed to retrieve the Currency Converter XML document.
+2019-02-03 02:41:11 ERROR vmError: Failed to retrieve the Currency Converter XML document.
+2019-02-03 06:59:09 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-03 07:01:53 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-03 07:02:02 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-03 07:02:09 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-03 07:02:29 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-03 07:02:33 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-03 07:02:51 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-03 07:03:26 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-03 07:03:31 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-03 07:04:43 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-03 07:05:10 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-03 07:05:54 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-03 07:06:39 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-03 07:07:21 ERROR vmError: The parameter &lt;em&gt;Sandbox Merchant Email&lt;/em&gt; is required for the payment &lt;em&gt;Paypal&lt;/em&gt; (&lt;em&gt;  3&lt;/em&gt;)
+2019-02-03 07:07:21 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-03 07:07:21 ERROR vmError: The parameter &lt;em&gt;Sandbox Merchant Email&lt;/em&gt; is required for the payment &lt;em&gt;Paypal&lt;/em&gt; (&lt;em&gt;  3&lt;/em&gt;)
+2019-02-03 07:07:21 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-03 07:07:54 ERROR vmError: COM_VIRTUEMART_CANNOT_STORE_CONFIG
+2019-02-03 07:11:33 ERROR vmError: COM_VIRTUEMART_CANNOT_STORE_CONFIG
+2019-02-03 07:12:23 ERROR vmError: COM_VIRTUEMART_CANNOT_STORE_CONFIG
+2019-02-03 07:13:40 ERROR vmError: COM_VIRTUEMART_CANNOT_STORE_CONFIG
+2019-02-03 07:16:25 ERROR vmError: The parameter &lt;em&gt;Sandbox Merchant Email&lt;/em&gt; is required for the payment &lt;em&gt;Paypal&lt;/em&gt; (&lt;em&gt;  3&lt;/em&gt;)
+2019-02-03 07:16:25 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://academiafernanda.me/ferado2/ferado/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-03 07:16:43 ERROR vmError: COM_VIRTUEMART_CANNOT_STORE_CONFIG
+2019-02-03 07:19:38 ERROR vmError: The parameter &lt;em&gt;Sandbox Merchant Email&lt;/em&gt; is required for the payment &lt;em&gt;Paypal&lt;/em&gt; (&lt;em&gt;  3&lt;/em&gt;)
+2019-02-03 07:41:22 NO LANGUAGE LOADED  COM_VIRTUEMART &lt;pre&gt;#0  vmTrace() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/helpers/vmlanguage.php:271]
+#1  vmLanguage::loadJLang() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/fields/vmloadlang.php:39]
+#2  JFormFieldVmLoadLang-&gt;getInput() called at [/var/www/html/ferado2/ferado/libraries/src/Form/FormField.php:975]
+#3  Joomla\CMS\Form\FormField-&gt;renderField() called at [/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php:47]
+#4  include(/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php) called at [/var/www/html/ferado2/ferado/libraries/src/Layout/FileLayout.php:125]
+#5  Joomla\CMS\Layout\FileLayout-&gt;render() called at [/var/www/html/ferado2/ferado/libraries/src/Layout/LayoutHelper.php:73]
+#6  Joomla\CMS\Layout\LayoutHelper::render() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php:231]
+#7  include(/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php) called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:695]
+#8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:230]
+#9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/view.html.php:46]
+&lt;/pre&gt;
+2019-02-03 07:41:22 NO LANGUAGE LOADED  COM_VIRTUEMART_CONFIG &lt;pre&gt;#0  vmTrace() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/helpers/vmlanguage.php:271]
+#1  vmLanguage::loadJLang() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/fields/vmloadlang.php:39]
+#2  JFormFieldVmLoadLang-&gt;getInput() called at [/var/www/html/ferado2/ferado/libraries/src/Form/FormField.php:975]
+#3  Joomla\CMS\Form\FormField-&gt;renderField() called at [/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php:47]
+#4  include(/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php) called at [/var/www/html/ferado2/ferado/libraries/src/Layout/FileLayout.php:125]
+#5  Joomla\CMS\Layout\FileLayout-&gt;render() called at [/var/www/html/ferado2/ferado/libraries/src/Layout/LayoutHelper.php:73]
+#6  Joomla\CMS\Layout\LayoutHelper::render() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php:231]
+#7  include(/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php) called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:695]
+#8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:230]
+#9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/view.html.php:46]
+&lt;/pre&gt;
+2019-02-03 07:41:50 NO LANGUAGE LOADED  COM_VIRTUEMART &lt;pre&gt;#0  vmTrace() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/helpers/vmlanguage.php:271]
+#1  vmLanguage::loadJLang() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/fields/vmloadlang.php:39]
+#2  JFormFieldVmLoadLang-&gt;getInput() called at [/var/www/html/ferado2/ferado/libraries/src/Form/FormField.php:975]
+#3  Joomla\CMS\Form\FormField-&gt;renderField() called at [/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php:47]
+#4  include(/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php) called at [/var/www/html/ferado2/ferado/libraries/src/Layout/FileLayout.php:125]
+#5  Joomla\CMS\Layout\FileLayout-&gt;render() called at [/var/www/html/ferado2/ferado/libraries/src/Layout/LayoutHelper.php:73]
+#6  Joomla\CMS\Layout\LayoutHelper::render() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php:231]
+#7  include(/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php) called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:695]
+#8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:230]
+#9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/view.html.php:46]
+&lt;/pre&gt;
+2019-02-03 07:41:50 NO LANGUAGE LOADED  COM_VIRTUEMART_CONFIG &lt;pre&gt;#0  vmTrace() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/helpers/vmlanguage.php:271]
+#1  vmLanguage::loadJLang() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/fields/vmloadlang.php:39]
+#2  JFormFieldVmLoadLang-&gt;getInput() called at [/var/www/html/ferado2/ferado/libraries/src/Form/FormField.php:975]
+#3  Joomla\CMS\Form\FormField-&gt;renderField() called at [/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php:47]
+#4  include(/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php) called at [/var/www/html/ferado2/ferado/libraries/src/Layout/FileLayout.php:125]
+#5  Joomla\CMS\Layout\FileLayout-&gt;render() called at [/var/www/html/ferado2/ferado/libraries/src/Layout/LayoutHelper.php:73]
+#6  Joomla\CMS\Layout\LayoutHelper::render() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php:231]
+#7  include(/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php) called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:695]
+#8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:230]
+#9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/view.html.php:46]
+&lt;/pre&gt;
+2019-02-03 07:42:00 NO LANGUAGE LOADED  COM_VIRTUEMART &lt;pre&gt;#0  vmTrace() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/helpers/vmlanguage.php:271]
+#1  vmLanguage::loadJLang() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/fields/vmloadlang.php:39]
+#2  JFormFieldVmLoadLang-&gt;getInput() called at [/var/www/html/ferado2/ferado/libraries/src/Form/FormField.php:975]
+#3  Joomla\CMS\Form\FormField-&gt;renderField() called at [/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php:47]
+#4  include(/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php) called at [/var/www/html/ferado2/ferado/libraries/src/Layout/FileLayout.php:125]
+#5  Joomla\CMS\Layout\FileLayout-&gt;render() called at [/var/www/html/ferado2/ferado/libraries/src/Layout/LayoutHelper.php:73]
+#6  Joomla\CMS\Layout\LayoutHelper::render() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php:231]
+#7  include(/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php) called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:695]
+#8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:230]
+#9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/view.html.php:46]
+&lt;/pre&gt;
+2019-02-03 07:42:00 NO LANGUAGE LOADED  COM_VIRTUEMART_CONFIG &lt;pre&gt;#0  vmTrace() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/helpers/vmlanguage.php:271]
+#1  vmLanguage::loadJLang() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/fields/vmloadlang.php:39]
+#2  JFormFieldVmLoadLang-&gt;getInput() called at [/var/www/html/ferado2/ferado/libraries/src/Form/FormField.php:975]
+#3  Joomla\CMS\Form\FormField-&gt;renderField() called at [/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php:47]
+#4  include(/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php) called at [/var/www/html/ferado2/ferado/libraries/src/Layout/FileLayout.php:125]
+#5  Joomla\CMS\Layout\FileLayout-&gt;render() called at [/var/www/html/ferado2/ferado/libraries/src/Layout/LayoutHelper.php:73]
+#6  Joomla\CMS\Layout\LayoutHelper::render() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php:231]
+#7  include(/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php) called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:695]
+#8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:230]
+#9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/view.html.php:46]
+&lt;/pre&gt;
+2019-02-03 07:42:11 NO LANGUAGE LOADED  COM_VIRTUEMART &lt;pre&gt;#0  vmTrace() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/helpers/vmlanguage.php:271]
+#1  vmLanguage::loadJLang() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/fields/vmloadlang.php:39]
+#2  JFormFieldVmLoadLang-&gt;getInput() called at [/var/www/html/ferado2/ferado/libraries/src/Form/FormField.php:975]
+#3  Joomla\CMS\Form\FormField-&gt;renderField() called at [/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php:47]
+#4  include(/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php) called at [/var/www/html/ferado2/ferado/libraries/src/Layout/FileLayout.php:125]
+#5  Joomla\CMS\Layout\FileLayout-&gt;render() called at [/var/www/html/ferado2/ferado/libraries/src/Layout/LayoutHelper.php:73]
+#6  Joomla\CMS\Layout\LayoutHelper::render() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php:231]
+#7  include(/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php) called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:695]
+#8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:230]
+#9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/view.html.php:46]
+&lt;/pre&gt;
+2019-02-03 07:42:11 NO LANGUAGE LOADED  COM_VIRTUEMART_CONFIG &lt;pre&gt;#0  vmTrace() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/helpers/vmlanguage.php:271]
+#1  vmLanguage::loadJLang() called at [/var/www/html/ferado2/ferado/administrator/components/com_virtuemart/fields/vmloadlang.php:39]
+#2  JFormFieldVmLoadLang-&gt;getInput() called at [/var/www/html/ferado2/ferado/libraries/src/Form/FormField.php:975]
+#3  Joomla\CMS\Form\FormField-&gt;renderField() called at [/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php:47]
+#4  include(/var/www/html/ferado2/ferado/layouts/joomla/edit/fieldset.php) called at [/var/www/html/ferado2/ferado/libraries/src/Layout/FileLayout.php:125]
+#5  Joomla\CMS\Layout\FileLayout-&gt;render() called at [/var/www/html/ferado2/ferado/libraries/src/Layout/LayoutHelper.php:73]
+#6  Joomla\CMS\Layout\LayoutHelper::render() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php:231]
+#7  include(/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/tmpl/edit.php) called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:695]
+#8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/ferado2/ferado/libraries/src/MVC/View/HtmlView.php:230]
+#9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/ferado2/ferado/administrator/components/com_modules/views/module/view.html.php:46]
+&lt;/pre&gt;
+2019-02-03 08:42:04 ERROR vmError: Failed to retrieve the Currency Converter XML document.
